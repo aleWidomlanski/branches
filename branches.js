@@ -1,7 +1,7 @@
 /* Crear una rama (branch)
 git branch {branch}
 
-Cambiar de rama
+Cambio de rama
 git checkout {branch}
 
 Traer actualizaciones de una rama 
